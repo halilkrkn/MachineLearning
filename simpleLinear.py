@@ -13,7 +13,7 @@ dataFrame = pd.read_csv("hw_25000.csv")
 
 boy = dataFrame.Height.values.reshape(-1,1)
 kilo = dataFrame.Weight.values.reshape(-1,1)
-# burada bir instance oluşturduk.
+# burada bir instance oluşturduk. bir nevi Yukarıda tanımladığımız LinearRegression classını çağırdık.
 regression = LinearRegression()
 # boy ve kiloya göre line fit elde etmek için fit() fonk. kullandık.
 regression.fit(boy,kilo)
