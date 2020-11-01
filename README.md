@@ -1,4 +1,4 @@
 # MachineLearning
-Machine learning - Regression Models
+Machine learning 
 
 https://github.com/halilkrkn/PythonIntro/blob/master/README.md
