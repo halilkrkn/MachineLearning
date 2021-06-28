@@ -14,7 +14,7 @@
 
 
 ## Neden Böyle Bir Şey Yaptım?
-- Github ı ben sanal not defterim olaarak görüyorum ve buraya öğrendiğim her şeyi online platfformalrdaki veya youtubedeki eğitimleri, projeleri kısacası kendimi geliştirecek ve öğrenmem gereken yapıları bu şekilde not ederek kendi not defterimden yararlanmanın işimi daha da kolaylaştırdığını gördüm. Sonuçta kendi öğrendiklerim daha kolay akıllada kalıyor. 
+- Github ı ben sanal not defterim olarak görüyorum ve buraya öğrendiğim her şeyi online platfformalrdaki veya youtubedeki eğitimleri, projeleri kısacası kendimi geliştirecek ve öğrenmem gereken yapıları bu şekilde not ederek kendi not defterimden yararlanmanın işimi daha da kolaylaştırdığını gördüm. Sonuçta kendi öğrendiklerim daha kolay akıllada kalıyor. 
 - Ve benim gibi olan veya daha yeni başlanyalaara da bir dökümaan olması niyetiyle böyle bir şey yapıyorum. 
 - Yani sadece benim sanal not defterim değil herkesin yararlanması da mutluluk verici olur.
 
