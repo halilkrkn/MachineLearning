@@ -19,8 +19,8 @@
 - Yani burayı sadece kendi sanal not defterim olarak değil herkesin yararlanması da mutluluk verici olur.
 
 
-## Nerden Öğrendim ve Neeler Yaptım?
-- Bu Makine öğrenmesi repository sinde makine öğreniminin temelleri ile herbir algoritmanın(modelin) teorilerini ve bu modelin nasıl nasıl kurulacağını nasıl tahmin ve optimizasyonların yapılacağını Udemy platformu üzerinden Mustafa Vahit Keskin eğitmenliğinde Yapay Zeka ve bir alt kümesi olan Makine Öğrenmesine giriş yapmış bulunmaktayım. 
--  Bu eğitim boyunca Regresyon modellerini, sınıflandırma modellerini, Denetimli (Supervised) ve denetimsiz (Unsupervised)  yöntemleri ile Doğal Dil İşleme Methodlarını ve yapılarını görmüş oldum ve bolca alıştırma yaparak eğlenerek vakit geçirdim.
+## Nerden Öğrendim ve Neler Yaptım?
+- Bu Makine öğrenmesi repositorysinde makine öğreniminin temelleri ile herbir algoritmanın(modelin) teorilerini ve bu modelin nasıl kurulacağını, tahmin ve optimizasyonların yapılacağını Udemy platformu üzerinden Mustafa Vahit Keskin eğitmenliğinde Yapay Zeka ve bir alt kümesi olan Makine Öğrenmesine giriş yapmış bulunmaktayım. 
+-  Bu eğitim boyunca Regresyon Modellerini, Sınıflandırma Modellerini, Denetimli (Supervised) ve Denetimsiz (Unsupervised) yöntemleri ile Doğal Dil İşleme Methodlarını ve yapılarını görmüş oldum ve bolca alıştırma yaparak eğlenerek vakit geçirdim.
 -  Yapay Zeka alanında bu şekilde kalmayıp daha derinlere inip büyük makine öğrenmesi dünyasında alanımı biraz daha daraltıp Derin Öğrenme ile devam ettirmeyi düşünüyorum.
 -  **bknz*: https://www.udemy.com/certificate/UC-d75ec187-0ce1-45ec-acfd-5f86fe37405a/
